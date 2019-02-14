@@ -6,7 +6,7 @@ Tout d'abord, je tiens a préciser que j'utilise l'IDE Android studio
 
 Questions :
 
-Je ne sais pas comment mettre en relation sur une seule widget plusieurs activités.(dans mon cas, il y a le placement de la photo dans une base de données et l'envoi des données a l'application (API))
+Je ne sais pas comment mettre en relation sur un seul widget plusieurs activités.(dans mon cas, il y a le placement de la photo dans une base de données et l'envoi des données a l'application (API))
 
 Pourquoi lorsque j'écris : val params = mCamera.getParameters(), le mCamera est souligné en rouge alors que j'ai importé android.hardware.Camera. Faut-il ajouter du Kotlin au projet ?
 J'ai essayé d'importer Kotlin mais j'ai le message d'erreur suivant : org/jetbrains/kotlin/kapt/idea/KaptGradleModelorg/jetbrains/kotlin/kapt/idea/KaptGradleModel, que signifie t-il?
@@ -22,6 +22,6 @@ Daemon:  AAPT2 aapt2-3.2.1-4818971-windows Daemon #2
 
 Pourquoi et que signifient t-ils?
 
-A celui qui si connait sur Android Studio, mon émulateur semble avoir un soucis. Il me demande de reset mon émulateur. Et lorsque que j’appuie sur le button reset, rien ne se passe....
+A celui qui s'y connait sur Android Studio, mon émulateur semble avoir un soucis. Il me demande de reset mon émulateur. Et lorsque que j’appuie sur le button reset, rien ne se passe....
 
-comment envoyer des photos sur un cloud local (sur ma Raspberry Pi) avec Java. L'idée est que l'utilisateur puisse prendre un photo et que celle ci soit envoyé a ma raspberry et qu'a partir du chemin d'accès (depuis la base de données) j'envoie la photo a une API. Je suis obligé de procéder ainsi car le lien que j'envoie a l'api est de la forme "https://my-api.plantnet.org/v1/identify/all?images=http://www.lagons-plages.com/images/fleur-frangipanier.jpg&organs=flower&lang=fr&key_API". Et quelle est la ligne de code a taper pour avoir recuperer le chemin dans mon URL
+comment envoyer des photos sur un cloud local (sur ma Raspberry Pi) avec Java. L'idée est que l'utilisateur puisse prendre un photo et que celle ci soit envoyée a ma raspberry et qu'a partir du chemin d'accès (depuis la base de données) j'envoie la photo a une API. Je suis obligé de procéder ainsi car le lien que j'envoie a l'api est de la forme "https://my-api.plantnet.org/v1/identify/all?images=http://www.lagons-plages.com/images/fleur-frangipanier.jpg&organs=flower&lang=fr&key_API". Et quelle est la ligne de code a taper pour avoir recuperer le chemin dans mon URL?
