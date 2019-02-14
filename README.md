@@ -20,7 +20,7 @@ Command: C:\Users\El Zorro\.gradle\caches\transforms-1\files-1.1\aapt2-3.2.1-481
         C:\Users\El Zorro\AndroidStudioProjects\Floradex_Identification\app\src\main\res\layout\activity_main.xml
 Daemon:  AAPT2 aapt2-3.2.1-4818971-windows Daemon #2
 
-Pourquoi et que signifie t-il?
+Pourquoi et que signifient t-ils?
 
 A celui qui si connait sur Android Studio, mon émulateur semble avoir un soucis. Il me demande de reset mon émulateur. Et lorsque que j’appuie sur le button reset, rien ne se passe....
 
