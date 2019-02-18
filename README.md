@@ -24,6 +24,6 @@ Pourquoi et que signifient t-ils?
 
 A celui qui s'y connait sur Android Studio, mon émulateur semble avoir un soucis. Il me demande de reset mon émulateur. Et lorsque que j’appuie sur le button reset, rien ne se passe....
 
-comment envoyer des photos sur un cloud local (sur ma Raspberry Pi) avec Java. L'idée est que l'utilisateur puisse prendre un photo et que celle ci soit envoyée a ma raspberry et qu'a partir du chemin d'accès (depuis la base de données) j'envoie la photo a une API. Je suis obligé de procéder ainsi car le lien que j'envoie a l'api est de la forme "https://my-api.plantnet.org/v1/identify/all?images=http://www.lagons-plages.com/images/fleur-frangipanier.jpg&organs=flower&lang=fr&key_API". Et quelle est la ligne de code a taper pour avoir recuperer le chemin dans mon URL?
+comment envoyer des photos sur un cloud local (sur ma Raspberry Pi) avec Java. L'idée est que l'utilisateur puisse prendre un photo et que celle ci soit envoyée a ma raspberry et qu'a partir du chemin d'accès (depuis la base de données) j'envoie la photo a une API. Je suis obligé de procéder ainsi car le lien que j'envoie a l'api est de la forme "https://my-api.plantnet.org/v1/identify/all?images=http://www.lagons-plages.com/images/fleur-frangipanier.jpg&organs=flower&lang=fr&key_API". Et quelle est la ligne de code a taper pour recuperer le chemin dans mon URL?
 
 Si vous avez des réponses ou des suggestions, repondez moi par mail a l'adresse suivante : azinc.vinc@gmail.com
