@@ -15,5 +15,3 @@
     * Python 3.6.8
     * Spider version 5.2.2
     * MySQL & MySQLWorkbench
-    * 
-
